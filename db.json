@@ -5,7 +5,7 @@
       "name": "AgroFeira",
       "category": "Feira",
       "deliveryEstimate": "0m",
-      "rating": 5,
+      "rating": 5.0,
       "imagePath": "assets/img/restaurants/boavista-mercadinh.jpg",
       "about": "Alimentos saudáveis, consumo consciente, contato direto com o agricultor.",
       "hours": "Parque Euclides Dourado, Garanhuns-PE, das 07:00 ás 11:00. Mensalmente toda 1ª quarta-feira de cada mês."
@@ -13,59 +13,19 @@
   ],
   "menu": [
     {
-      "id": "nescau",
-      "imagePath": "assets/img/foods/1.jpg",
-      "name": "Nescau",
-      "description": "Achocolatado em pó",
-      "price": 8.7,
+      "id": "cesta-vegetariana",
+      "imagePath": "assets/img/foods/cesta-vegetariana.png",
+      "name": "Cesta Vegetariana",
+      "description": "1 pé de Alface, 1 Albobrinha, 1 pé de Coentro, 1 pé de Cebolinha, 2 Maço de Couve, 1kg de Tomate, 1/2 de Jerimun, Pimenta, 1kg de Macaxeira, 1kg de Batata doce, 1kg de Feijão, Limão, 1 palma de Banana, 9 Ovos, 3 Pimentões e Hortelã.",
+      "price": 50.00,
       "restaurantId": "agrofeira"
     },
     {
-      "id": "cafe-ouro-verde",
-      "imagePath": "assets/img/foods/2.png",
-      "name": "Café Ouro Verde",
-      "description": "Café",
-      "price": 8.7,
-      "restaurantId": "agrofeira"
-    },
-    {
-      "id": "requeijao",
-      "imagePath": "assets/img/foods/3.png",
-      "name": "Requeijão Bom Leite",
-      "description": "Requeijão Light Bom Leite",
-      "price": 8.7,
-      "restaurantId": "agrofeira"
-    },
-    {
-      "id": "pao",
-      "imagePath": "assets/img/foods/4.png",
-      "name": "Pão Plus Vita",
-      "description": "Pão Plus Vita",
-      "price": 8.7,
-      "restaurantId": "agrofeira"
-    },
-    {
-      "id": "leite-ninho",
-      "imagePath": "assets/img/foods/5.png",
-      "name": "Leite Ninho Kids",
-      "description": "Leite Ninho Kids",
-      "price": 8.7,
-      "restaurantId": "agrofeira"
-    },
-    {
-      "id": "leite-bom-leite",
-      "imagePath": "assets/img/foods/6.png",
-      "name": "Leite Integral Bom Leite",
-      "description": "Leite Integral Bom Leite",
-      "price": 8.7,
-      "restaurantId": "agrofeira"
-    },
-    {
-      "id": "sucrilhos",
-      "imagePath": "assets/img/foods/7.png",
-      "name": "Sucrilhos",
-      "description": "Sucrilhos",
-      "price": 8.7,
+      "id": "cesta-queijo",
+      "imagePath": "assets/img/foods/cesta-queijo.png",
+      "name": "Cesta com Queijo",
+      "description": "1 pé de Alface, 1 Albobrinha, 1 pé de Coentro, 1 pé de Cebolinha, 2 Maço de Couve, 1kg de Tomate, 1/2 de Jerimun, Pimenta, 1kg de Macaxeira, 1kg de Batata doce, 1kg de Feijão, Limão, 1 palma de Banana, 9 Ovos, 3 Pimentões, Hortelã e 1 Queijo",
+      "price": 66.00,
       "restaurantId": "agrofeira"
     }
   ],
